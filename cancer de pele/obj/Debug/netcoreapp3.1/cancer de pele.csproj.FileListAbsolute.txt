@@ -1,0 +1,17 @@
+C:\Users\allan\source\repos\cancer de pele\cancer de pele\bin\Debug\netcoreapp3.1\cancer de pele.exe
+C:\Users\allan\source\repos\cancer de pele\cancer de pele\bin\Debug\netcoreapp3.1\cancer de pele.deps.json
+C:\Users\allan\source\repos\cancer de pele\cancer de pele\bin\Debug\netcoreapp3.1\cancer de pele.runtimeconfig.json
+C:\Users\allan\source\repos\cancer de pele\cancer de pele\bin\Debug\netcoreapp3.1\cancer de pele.runtimeconfig.dev.json
+C:\Users\allan\source\repos\cancer de pele\cancer de pele\bin\Debug\netcoreapp3.1\cancer de pele.dll
+C:\Users\allan\source\repos\cancer de pele\cancer de pele\bin\Debug\netcoreapp3.1\cancer de pele.pdb
+C:\Users\allan\source\repos\cancer de pele\cancer de pele\bin\Debug\netcoreapp3.1\DIPLi.dll
+C:\Users\allan\source\repos\cancer de pele\cancer de pele\obj\Debug\netcoreapp3.1\cancer de pele.csprojAssemblyReference.cache
+C:\Users\allan\source\repos\cancer de pele\cancer de pele\obj\Debug\netcoreapp3.1\cancer_de_pele.frmEncontrarCancerDePele.resources
+C:\Users\allan\source\repos\cancer de pele\cancer de pele\obj\Debug\netcoreapp3.1\cancer de pele.csproj.GenerateResource.cache
+C:\Users\allan\source\repos\cancer de pele\cancer de pele\obj\Debug\netcoreapp3.1\cancer de pele.AssemblyInfoInputs.cache
+C:\Users\allan\source\repos\cancer de pele\cancer de pele\obj\Debug\netcoreapp3.1\cancer de pele.AssemblyInfo.cs
+C:\Users\allan\source\repos\cancer de pele\cancer de pele\obj\Debug\netcoreapp3.1\cancer de pele.csproj.CoreCompileInputs.cache
+C:\Users\allan\source\repos\cancer de pele\cancer de pele\obj\Debug\netcoreapp3.1\cancer de pele.csproj.CopyComplete
+C:\Users\allan\source\repos\cancer de pele\cancer de pele\obj\Debug\netcoreapp3.1\cancer de pele.dll
+C:\Users\allan\source\repos\cancer de pele\cancer de pele\obj\Debug\netcoreapp3.1\cancer de pele.pdb
+C:\Users\allan\source\repos\cancer de pele\cancer de pele\obj\Debug\netcoreapp3.1\cancer de pele.genruntimeconfig.cache
